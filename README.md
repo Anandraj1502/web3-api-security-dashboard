@@ -72,10 +72,6 @@ The system simulates live API traffic using dynamically generated data and updat
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here after uploading project)*
-
 ---
 
 ## ▶️ How to Run
